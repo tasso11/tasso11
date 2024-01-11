@@ -1,16 +1,19 @@
-### Hi there 👋
+# About Tasso
+![](https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTY4MTg2MDIyNzgyODM4MDMz/1988-michael-jordan-001238167_0jpg.webp)
+  [this is a link to google classroom](https://classroom.google.com/u/0/h)
+###### this is a little header
+- my grocery list
+- eggs
+- milk
+- bread
+- hamburgers
+- pizza
 
-<!--
-**tasso11/tasso11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WOAH**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| WOoooo      | this is cool | table |
+| roarrr  | yurrrr   |   ARRRR |
+| pizza | tacos  |   burgers|
